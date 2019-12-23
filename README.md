@@ -1,2 +1,5 @@
 # Gradient_Descent_demo
 This project demonstrate how GradientDescent works, and you can apply your own 3D function and derivative to this project.
+
+#Demonstrations
+Here I set two example algorithms to provide specific view of this project.
