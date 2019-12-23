@@ -3,4 +3,4 @@ This project demonstrate how GradientDescent works, and you can apply your own 3
 
 # Demonstrations
 Here I set two example algorithms to provide specific view of this project.
-![image](https://github.com/jimmg35/Gradient_Descent_demo/blob/master/images/demo1.png)![image](https://github.com/jimmg35/Gradient_Descent_demo/blob/master/images/DEMO2.png)
+![image](https://github.com/jimmg35/Gradient_Descent_demo/blob/master/images/demo1.png = 320x240)![image](https://github.com/jimmg35/Gradient_Descent_demo/blob/master/images/DEMO2.png)
